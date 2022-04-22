@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+  }
+
+body {
+    background-color: rgb(245, 241, 241);
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+
+p,span {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+
+.bg-light-2 {
+    background-color: #eeeff0;
+}
+
+nav.navbar {
+    border: none;
+}
+
+.logo {
+    width: 200px;
+}
+
+.banner-two {
+    width: 1920px;
+    height: 780px;
+}
+
+/* .img-slides {
+    width: 1920px;
+    height: 730px;
+} */
+
+.logo-footer {
+    width: 150px;
+}
+
+.center-content {
+    justify-content: center;
+}
+
+.navbar-padding {
+    padding: 10px;
+}
+
+a.nav-link {
+    color: #25282a!important;
+}
+
+a.nav-link:hover {
+    color: #3167b1!important;
+}
+
+.bg-blue-2 {
+    background-color: #3167b1!important;
+}
+
+.icon-card {
+    width: 100px;
+}
+
+.borde-card {
+    /* border-radius: ; */
+}
+
+.text-footer {
+    font-weight: 200;
+}
+
+.icon-footer {
+    width: 25px;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.shadow-card {
+    box-shadow: 0 0 15px rgba(10, 10, 10, 0.3);
+}
+
+
+.profile-card-3 {
+    background-color: #FFF;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    cursor: pointer;
+    padding: 25px 15px;
+}
+
+.profile-card-3 .profile-name {
+    font-weight: bold;
+    color: #21304e;
+}
+
+.profile-card-3 .profile-location {
+    color: #999;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+/* .profile-card-3 img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    margin: 10px auto;
+    border-radius: 50%;
+    transition: all linear 0.25s;
+} */
+
+.profile-card-3 .profile-description {
+    font-size: 13px;
+    color: #777;
+    padding: 10px;
+}
+
+.profile-card-3 .profile-icons {
+    margin: 15px 0px;
+}
+
+.profile-card-3 .profile-icons .fa {
+    color: #fe455a;
+    margin: 0px 5px;
+}
+
+/* .profile-card-3:hover img {
+    height: 110px;
+    width: 110px;
+    margin: 5px auto;
+} */
+
+.text-footer-link {
+    font-weight: 200;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
